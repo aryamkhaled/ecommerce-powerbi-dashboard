@@ -5,7 +5,19 @@
 **Repository:** https://github.com/aryamkhaled/ecommerce-powerbi-dashboard
 
 ---
+## One Dataset, Four Tools
 
+This project is part of a series analyzing the **same dataset (UCI Online Retail)** with four different tools, to compare how each one approaches the same analysis.
+
+| # | Project | Tool | Focus | Link |
+|---|---------|------|-------|------|
+| 1 | Data Analysis | **Pandas** | Cleaning and exploratory analysis | [View Project](https://github.com/aryamkhaled/ecommerce-sales-analysis) |
+| 2 | Web App | **Streamlit** | Interactive web application | [View Project](https://github.com/aryamkhaled/ecommerce-dashboard) |
+| 3 | Database | **SQL** | Querying and database analysis | [View Project](https://github.com/aryamkhaled/ecommerce-sql-analysis) |
+| 4 | Dashboard | **Power BI** | Business dashboard (this project) | **You are here** |
+
+> Each project includes its own detailed documentation and methodology.
+---
 ## Project Overview
 
 An interactive Power BI Dashboard built to analyze the UCI Online Retail Dataset. It provides a comprehensive view of sales performance, customer behavior, and geographic trends.
