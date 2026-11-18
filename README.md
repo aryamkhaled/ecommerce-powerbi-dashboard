@@ -52,7 +52,7 @@ An interactive Power BI Dashboard built to analyze the UCI Online Retail Dataset
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ---
 
